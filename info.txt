@@ -1,0 +1,3 @@
+manifest is a JSON file that provides information about the Chrome extension we are building.
+
+
